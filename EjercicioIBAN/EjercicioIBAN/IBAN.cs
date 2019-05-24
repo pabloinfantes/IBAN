@@ -31,6 +31,7 @@ namespace SolucionBancaria
             {
                 tmp += IbanFragmentado[i];
                 resultado = (int.Parse(tmp) % 97).ToString();
+                tmp = resultado;
             }
             resultado = (98 - (int.Parse(resultado))).ToString();
             if (resultado.Length == 1)
