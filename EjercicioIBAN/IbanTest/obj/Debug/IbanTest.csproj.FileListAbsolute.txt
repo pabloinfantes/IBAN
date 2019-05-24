@@ -1,0 +1,7 @@
+C:\IBAN\EjercicioIBAN\IbanTest\bin\Debug\IbanTest.dll
+C:\IBAN\EjercicioIBAN\IbanTest\bin\Debug\IbanTest.pdb
+C:\IBAN\EjercicioIBAN\IbanTest\bin\Debug\nunit.framework.dll
+C:\IBAN\EjercicioIBAN\IbanTest\bin\Debug\nunit.framework.xml
+C:\IBAN\EjercicioIBAN\IbanTest\obj\Debug\IbanTest.csprojResolveAssemblyReference.cache
+C:\IBAN\EjercicioIBAN\IbanTest\obj\Debug\IbanTest.dll
+C:\IBAN\EjercicioIBAN\IbanTest\obj\Debug\IbanTest.pdb
