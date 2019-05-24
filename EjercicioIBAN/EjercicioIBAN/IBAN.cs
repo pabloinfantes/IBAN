@@ -97,6 +97,18 @@ namespace SolucionBancaria
 
             return resultado;
         }
+        public static bool ComprobarIBAN(string Cadena)
+        {
+            string cuenta = Cadena.Substring(4, 20);
+            string NumeroIBAN = Cadena.Substring(2, 2);
+
+            if (!esUnCCValido(cuenta))
+            {
+                return false;
+            }
+
+            return NumeroIBAN == CalcularIBAN(cuenta);
+        }
 
 
 
