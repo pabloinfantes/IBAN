@@ -2,6 +2,10 @@ C:\IBAN\EjercicioIBAN\IbanTest\bin\Debug\IbanTest.dll
 C:\IBAN\EjercicioIBAN\IbanTest\bin\Debug\IbanTest.pdb
 C:\IBAN\EjercicioIBAN\IbanTest\bin\Debug\nunit.framework.dll
 C:\IBAN\EjercicioIBAN\IbanTest\bin\Debug\nunit.framework.xml
-C:\IBAN\EjercicioIBAN\IbanTest\obj\Debug\IbanTest.csprojResolveAssemblyReference.cache
 C:\IBAN\EjercicioIBAN\IbanTest\obj\Debug\IbanTest.dll
 C:\IBAN\EjercicioIBAN\IbanTest\obj\Debug\IbanTest.pdb
+C:\IBAN\EjercicioIBAN\IbanTest\obj\Debug\IbanTest.csprojAssemblyReference.cache
+C:\IBAN\EjercicioIBAN\IbanTest\obj\Debug\IbanTest.csproj.CoreCompileInputs.cache
+C:\IBAN\EjercicioIBAN\IbanTest\bin\Debug\EjercicioIBAN.dll
+C:\IBAN\EjercicioIBAN\IbanTest\bin\Debug\EjercicioIBAN.pdb
+C:\IBAN\EjercicioIBAN\IbanTest\obj\Debug\IbanTest.csproj.CopyComplete

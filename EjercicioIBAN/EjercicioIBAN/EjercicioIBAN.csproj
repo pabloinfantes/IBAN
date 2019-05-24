@@ -42,12 +42,6 @@
     <Compile Include="IBAN.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\IbanTest\IbanTest.csproj">
-      <Project>{f9144838-571d-497f-93d4-ebffa4c8e522}</Project>
-      <Name>IbanTest</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
